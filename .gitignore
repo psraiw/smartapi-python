@@ -5,3 +5,5 @@
 build/*
 smartapi_python.egg-info
 dist/*
+myenv/*
+authinfo.yaml
